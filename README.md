@@ -3,7 +3,7 @@ Repo for a talk on Jupyter nbextensions at PyParis 2017
 
 The JupExtensions_talk.ipynb was used during a talk at [PyParis 2017](http://pyparis.org/). In order to fully reproduce what was done there, 
 
-1. you should have a working installation of the  [jupyter_contrib](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) notebook extensions. See []() for installation instructions. Using pip, it should be as easy as
+1. you should have a working installation of the  [jupyter_contrib](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) notebook extensions. See [here](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) for installation instructions. Using pip, it should be as easy as
 ```
 pip install https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tarball/master
 ```
@@ -18,7 +18,7 @@ jupyter contrib nbextension install --user
     ```
     jupyter nbextension install https://rawgit.com/jfbercher/small_nbextensions/master/toggleCase.zip --user
     ```
-    - download xxxxxxx, unzip, change to yyyy directory and \underline{run jupyter notebook from that directory} (this preserve links) -- alternatively, you can just git clone this repo.
+    - download https://github.com/jfbercher/PyParis2017/raw/master/JupNbextensions.zip, unzip, change to PyParis2017 directory and \underline{run jupyter notebook from that directory} (this preserve links) -- alternatively, you can just git clone this repo.
     
 3. Displaying correcly the present notebook needs the [jupyter_latex_envs](https://pypi.python.org/pypi/jupyter_latex_envs) nbextension to be installed and enabled; is it not a strong requirement though.
 
