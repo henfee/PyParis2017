@@ -1,7 +1,7 @@
 # PyParis2017
 Repo for a talk on Jupyter nbextensions at PyParis 2017
 
-The JupExtensions_talk.ipynb was used during a talk at [PyParis 2017](http://pyparis.org/). In order to fully reproduce what was done there, 
+The `JupExtensions_talk.ipynb` was used during a talk at [PyParis 2017](http://pyparis.org/). In order to fully reproduce what was done there, 
 
 1. you should have a working installation of the  [jupyter_contrib](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) notebook extensions. See [here](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) for installation instructions. Using pip, it should be as easy as
 ```
